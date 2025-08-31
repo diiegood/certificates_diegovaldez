@@ -1,0 +1,93 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+\moderncvstyle{banking}
+\moderncvcolor{black}
+\nopagenumbers{}
+\usepackage[utf8]{inputenc}
+\usepackage{ragged2e}
+\usepackage[scale=0.915]{geometry}
+\usepackage{import}
+\usepackage{multicol}
+\usepackage{import}
+\usepackage{enumitem}
+\usepackage[utf8]{inputenc}
+\usepackage{amssymb}
+\name{Jorge Diego}{Valdez Fonseca}
+\newcommand*{\customcventry}[7][.13em]{
+\begin{tabular}{@{}l}
+{\bfseries #4} \
+{\itshape #3}
+\end{tabular}
+\hfill
+\begin{tabular}{l@{}}
+{\bfseries #5} \
+{\itshape #2}
+\end{tabular}
+\ifx&#7&%
+\else{\
+\begin{minipage}{\maincolumnwidth}%
+\small#7%
+\end{minipage}}\fi%
+\par\addvspace{#1}}
+\begin{document}
+\makecvtitle
+\vspace*{-16mm}
+\begin{center}
+    \textbf{Estudiante de Economía y Finanzas}
+\end{center}
+
+\begin{center}
+\begin{tabular}{ c c c }
+    \faMobile\enspace +55 4873 8496 & \enspace diegovaf181199@gmail.com  & \enspace \faHome\enspace CDMX, México \\
+    
+    \faLinkedin\enspace \href{https://www.linkedin.com/in/diegovalfo0192}{\color{blue}diegovalfo0192} & 
+    \faGithub\enspace \href{https://github.com/diiegood}{\color{blue}github.com/diiegood} & \enspace 
+\end{tabular}
+\end{center}
+
+
+\section{Sobre mi:}
+{Estudiante de último semestre de Economía, con enfoque en finanzas e inversión en mercados financieros. Poseo sólidos conocimientos en valuación de empresas, análisis de estados financieros y construcción de modelos financieros, así como un dominio de conocimientos en el ámbito bursátil, inversiones y mercados de capitales, deuda y derivados, con el apoyo de herramientas como Python, SQL, Excel Avanzado y R Studio.
+
+Participe en el reto actinver 2024 teniendo un desempeño promedio entre los lugares 24 y 50 de todos los participantes de la UNAM, durante todo el periodo que duro el concurso, ademas de estar invirtiendo actualmente a traves de GBM, comprando capitales y poniendo en practica mis conocimientos, tanto de analisis fundamental como de modelaje financiero.}
+
+\section{Habilidades Personales}
+{Modelaje Financiero - Analisis Fundamental - Estadistica y Probabilidad - Series de tiempo - Contabilidad - Finanzas BUrsatiles -  Finanzas Corporativas - mercado de derivados - mercado de deuda - mercado de capitales -  Riesgos Financieros - Econometria}
+
+\section{Habilidades tecnicas}
+{Python (Jupiter Notebook y Spyder)  -   R Studio -   SQL - Visual Basic - Power Bi - Herramientas IA - Microsfot Excel - Paqueteria Office - LaTex}
+
+\section{Experiencia}
+\customcventry{03/2025 ‐ 09/2025}{{\color{blue}\href{https://google.com/}{}}}{Provedor de Servicio Social Banco de Mexico}{Cuauhtemoc, CDMX }{}{
+{\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
+\item Actividades relacionadas a Analisis de datos y Visualizacion de datos, que involucraban grandes volumenes de informacion
+\item Estimacion de empresas mexicanas que cotizan como ADRs, tanto en capitalizacion busratil, pago de dividendos, analisis de estadios financieros
+\item Apoyo en la realizacion de modelos econometricos para el TCR y en la limpieza de bases de datos
+\end{itemize}}}
+
+
+\section{Educacion}
+\customcventry{2021-2026}{Licenciatura en Economia Y  Finanzas}{Universidad Nacional Autonoma de Mexico}{}{}
+{Durante la carrera he desempeñado diversas actividades como practicas de Valuacion de empresas, Analisis de Cash Flows , Analis de Estado de Resultados, Balance General, Realizacion problemas de Matematicas Financieras , utilizando Excel con Visual Basic, Solver, ademas de; Valuacion de Bonos, Calculo de Convexidad y Duracion, Valuacion de Opciones, utilizando modelo Binomial y Black-Scholes, calculo de griegas, cobertura en futuros, tanto en Excel como en Python, modelos financieros como Simulacioes de Monte Carlo, CAPM, Frontera Eficiente, sharpe ratio, Markowitz, Modelo VaR , C-VaR, GARCH, EGARCH, etc. }
+
+\section{Cursos \& Certificaciones}
+{\begin{itemize}[label=\textbullet]
+      \item 	Curso de Mercado de Valores y Derivados, Escuela Bolsa Mexicana. (Agosto 2024)   
+      \item 	Financial Markets, Yale University. (Octubre 2024)  
+      \item 	Curso de Python para Economista  Facultad de Economia, UNAM.  (Enero 2025 ) 
+      \item 	Introduction to Portfolio Construction and Analysis with Python, EDHEC Business School . (Julio 2025 ) 
+       \item 	Advanced Portfolio Construction and Analysis with Python. EDHEC Business School . (Agosto 2025 )  
+       \item 	Especializacion: Mathematics for Machine Learning Imperial College London. (en curso)  
+  \end{itemize}} 
+
+
+
+\section{Idiomas}
+\begin{itemize}[leftmargin=0.6cm, label={}]
+    \item 
+    \begin{tabular}{ l l }
+        \textbf{Español:} Nativo & \hspace{1.5cm}\textbf{Inglés:} Reading 85\% \hspace{0.7cm}Speaking 75\%\hspace{0.7cm}Listening 75\%\hspace{0.7cm}Writing 80\%\\
+    \end{tabular}
+\end{itemize}
+
+
+\end{document}
