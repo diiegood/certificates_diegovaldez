@@ -30,14 +30,12 @@
 \par\addvspace{#1}}
 \begin{document}
 \makecvtitle
-\vspace*{-16mm}
-\begin{center}
-    \textbf{Estudiante de Economía y Finanzas}
-\end{center}
+\vspace*{-10.5mm}
+
 
 \begin{center}
 \begin{tabular}{ c c c }
-    \faMobile\enspace +55 4873 84960 & \enspace diegovaf181199@gmail.com  & \enspace \faHome\enspace CDMX, México \\
+    \faMobile\enspace +55 4873 8496 & \enspace diegovaf181199@gmail.com  & \enspace \faHome\enspace Coyoacan, CDMX \\
     
     \faLinkedin\enspace \href{https://www.linkedin.com/in/diegovalfo0192}{\color{blue}diegovalfo0192} & 
     \faGithub\enspace \href{https://github.com/diiegood}{\color{blue}github.com/diiegood} & \enspace 
@@ -45,49 +43,117 @@
 \end{center}
 
 
-\section{Profile}
-{Estudiante de último semestre de Economía, con enfoque en finanzas e inversión en mercados financieros. Poseo sólidos conocimientos en valuación de empresas, análisis de estados financieros y construcción de modelos financieros, así como un dominio de conocimientos en el ámbito bursátil, inversiones y mercados de capitales, deuda y derivados, con el apoyo de herramientas como Python, SQL, Excel Avanzado y R Studio.
+\section{About me:}
+{Recently graduated in Economics, I bring over 1 year of experience in the finance sector, where I have carried out responsibilities related to data analysis, derivatives operations, and financial reporting. I am highly curious and strongly motivated to continuously expand my knowledge and acquire new skills. I prioritize finding effective solutions rather than focusing on obstacles and enjoy collaborating in team-oriented environments. I also communicate clearly and work well under pressure, maintaining both accuracy and attention to detail. 
 
-Participe en el reto actinver 2024 teniendo un desempeño promedio entre los lugares 24 y 50 de todos los participantes de la UNAM, durante todo el periodo que duro el concurso, ademas de estar invirtiendo actualmente a traves de GBM, comprando capitales y poniendo en practica mis conocimientos, tanto de analisis fundamental como de modelaje financiero.}
 
-\section{Habilidades Personales}
-{Modelaje Financiero - Analisis Fundamental - Estadistica y Probabilidad - Series de tiempo - Contabilidad - Finanzas BUrsatiles -  Finanzas Corporativas - mercado de derivados - mercado de deuda - mercado de capitales -  Riesgos Financieros}
+\begin{itemize}
+    \item I achieve a distinguished performance in the Actinver Challenge 2024, placing 30th, and I also participated in the 2025 edition. \vspace*{-0.9mm}
+    \item I have 2 years of experience managing my own investment portfolio.\vspace*{-0.9mm}
+\end{itemize}
+}
 
-\section{Habilidades tecnicas}
-{Python (Jupiter Notebook y Spyder)  -   R Studio -   SQL - Visual Basic - Power Bi - Herramientas IA - Microsfot Excel - Paqueteria Office - LaTex}
+\section{Personal Skills}
+{Effective Communication - Leadership - Proactivity - Crisis Management - Self-direct learning - Continous Learning - Analythical Thinking  - Attention to detail - Team collaboration - Interpersonal skills - Social Aptitude - Resilience - Determination - Goal Achivement - Fast learner - empathy - Honnesty - Commitment}
 
-\section{Experiencia}
-\customcventry{03/2025 ‐ 09/2025}{{\color{blue}\href{https://google.com/}{}}}{Provedor de Servicio Social Banco de Mexico}{Cuauhtemoc, CDMX }{}{
+\section{Technical Skills}
+{Python (Financial Modeling and Data Analysis)  -   R Studio -   SQL - Visual Basic - Power Bi - Microsoft Excel - Microsoft Office Suite - LaTex - Accounting - Statistics and Probability - Capital Markets, Debt Markets, Derivatives Markets -  Corporative Finance - Financial Risk Management  - Advanced Excel  }
+
+\section{Experience:}
+\customcventry{03/2025 ‐ 09/2025}{{\color{blue}\href{https://google.com/}{}}}{Social Service – Bank of Mexico: External Finance and Factor Services}{Mexico City}{}{
 {\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
-\item Actividades relacionadas a Analisis de datos y Visualizacion de datos, que involucraban grandes volumenes de informacion
-\item Estimacion de empresas mexicanas que cotizan como ADRs, tanto en capitalizacion busratil, pago de dividendos, analisis de estadios financieros
-\item Apoyo en la realizacion de modelos econometricos para el TCR y en la limpieza de bases de datos
+\item Performed data analysis, data visualization, statistical modeling, and process optimization using Python and R Studio, working with large-scale datasets (intermediate-level programming).
+\item Conducted research on the international exposure of the Mexican stock market; managed issuer-level data provided by INDEVAL, CNBV, and CNSF; developed knowledge of SEC and CNBV regulations.
+\item Assisted in the development of econometric models for the real exchange rate (RER), including data cleaning, preparation, and management using Python (intermediate-level programming and mathematics).
+\end{itemize}}}
+\vspace*{1.5mm}
+
+\customcventry{10/2025 -- 05/2026}{{\color{blue}\href{https://google.com/}{}}}{Professional Internship – Grupo Financiero Inbursa: Derivatives Intern}{Mexico City}{}{
+{\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
+\item Performed coupon and interest calculations for swaps and options, applying financial mathematics and derivatives pricing concepts.
+\item Developed, validated, and verified amortization schedules and swap cash flow structures using Python.
+\item Contributed to stress testing exercises by estimating potential losses under multiple market scenarios.
+\item Supported the automation of operational and analytical processes using Python and Visual Basic for Applications (VBA).
 \end{itemize}}}
 
-
-\section{Educacion}
-\customcventry{2021-2026}{Licenciatura en Economia Y  Finanzas}{Universidad Nacional Autonoma de Mexico}{}{}
-{Durante la carrera he desempeñado diversas actividades como practicas de Valuacion de empresas, Analisis de Flujos de Caja , Estado de Resultados, Balance General, Realizacion problemas Financieros , utilizando Excel con Visual Basic, Solver, Valuacion de Bonos, Calculo de Convexidad y Duracion, Valuacion de Opciones, utilizando modelo Binomial y Black-Scholes, calculo de griegas, cobertura en futuros, tanto en Excel como en Python, modelos financieros como Simulacioes de Monte Carlo, CAPM, Frontera Eficiente, calculo sharpe ratio, Markowitz, Modelo VaR , C-VaR, GARCH, EGARCH, etc. }
-
-\section{Cursos \& Certificaciones}
-{\begin{itemize}[label=\textbullet]
-      \item Introduction to Digital Marketing (Jan. 2023) - \underline{\color{blue}\href{https://google.com/}{SEMRUSH}}
-      \item Career Essentials in Digital Marketing by LinkedIn (Aug. 2022) - \underline{\color{blue}\href{https://google.com/}{LinkedIn}}
-      \item Visualization with Tableau (Feb. 2022) - \underline{\color{blue}\href{https://google.com/}{Coursera}}
-      \item Foundations of Google Analytics  (Jun. 2021) - \underline{\color{blue}\href{https://google.com/}{Google, Coursera}}
-     \item Google Analytics for Power Users (Jun. 2021) - \underline{\color{blue}\href{https://google.com/}{Google}}
-       \item The Fundamentals of Digital Marketing, (Jul. 2019) - \underline{\color{blue}\href{https://google.com/}{Google}} 
-  \end{itemize}} 
+\section{Education}
+\customcventry{08/2020-12/2025}{Bachelor’s  in Economics}{Universidad Nacional Autónoma de México (UNAM)}{}{}{
+Branch: Finance and Quantitative Economics.
+}{
+Completed academic and practical training in financial modeling using Python, VBA, RStudio, LaTeX, and Power BI. 
+Developed applications involving Monte Carlo simulations, risk measures.
+Applied statistical modeling to business and financial problems, with intermediate-to-advanced knowledge in corporate finance, financial derivatives, operational risk management, financial mathematics, and algorithmic trading.
+}
 
 
-
-\section{Idiomas}
+\section{Languages}
 \begin{itemize}[leftmargin=0.6cm, label={}]
     \item 
-    \begin{tabular}{ l l }
-        \textbf{Español:} Nativo & \hspace{1.5cm}\textbf{Inglés:} Reading 85\% \hspace{0.7cm}Speaking 75\%\hspace{0.7cm}Listening 75\%\\
+    \begin{tabular}{l@{\hspace{0.7cm}}l}
+        \textbf{Spanish:} Native Proficiency
+        &
+        \textbf{English:} Full Professional Proficiency \\
+        &
+        Reading: 90\% \quad Speaking: 75\% \quad Listening: 80\% \quad Writing: 80\%
     \end{tabular}
 \end{itemize}
+
+\newpage
+\section{Courses \& Certifications}
+
+\customcventry{08/2024 -- 4 months}{{\color{blue}\href{https://google.com/}{}}}{Securities and Derivatives Markets Course, Mexican Stock Exchange School}{}{}{
+{\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
+\item Financial mathematics exercises.
+\item Fundamentals of securities markets and financial instruments.
+\item Knowledge of market regulations and compliance frameworks.
+\end{itemize}}}
+
+\vspace{0.5cm}
+
+\customcventry{10/2024 -- 5 months}{{\color{blue}\href{https://google.com/}{}}}{Financial Markets, Yale University}{}{}{
+{\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
+\item Equity markets and financial securities.
+\item Regulation and instruments of the U.S. equity market.
+\item Macroeconomic environment analysis and financial crisis studies.
+\end{itemize}}}
+
+\vspace{0.5cm}
+
+\customcventry{01/2025 -- 7 months}{{\color{blue}\href{https://google.com/}{}}}{Python for Economists, UNAM}{}{}{
+{\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
+\item Intermediate-level econometrics and Python programming.
+\item Machine learning and neural networks.
+\item SQL and data analysis.
+\end{itemize}}}
+
+\vspace{0.5cm}
+
+\customcventry{11/2025 -- 6 months}{{\color{blue}\href{https://google.com/}{}}}{Option Pricing with Mathematical Models, California Institute of Technology (Caltech)}{}{}{
+{\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
+\item Option valuation using Binomial and Black--Scholes models.
+\item Hedging strategies and arbitrage techniques.
+\item Futures, swaps, forwards, Brownian motion, and CIR interest rate models.
+\end{itemize}}}
+
+\vspace{0.5cm}
+
+\customcventry{01/2026 -- 8 months}{{\color{blue}\href{https://google.com/}{}}}{Specialization: Mathematics for Machine Learning, Imperial College London}{}{}{
+{\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
+\item Linear algebra exercises: vector and matrix operations, implemented in Python (completed).
+\item Multivariate calculus: gradients, optimization techniques, Taylor series, and Jacobian and Hessian matrices (completed).
+\item Principal Component Analysis (PCA) for machine learning (completed).
+\end{itemize}}}
+
+\vspace{0.5cm}
+
+\customcventry{ In Progress -- 8 months}{{\color{blue}\href{https://google.com/}{}}}{Specialization: Python and Machine Learning for Asset Management}{}{}{
+{\begin{itemize}[leftmargin=0.6cm, label={\textbullet}]
+\item CIR, Vasicek, Brownian motion, GARCH, VaR, CVaR, and Markowitz portfolio models implemented in Python (completed).
+\item Econometrics applied to finance and financial modeling in Python (completed).
+\item Machine learning for portfolio management using alternative datasets (In progress).
+\end{itemize}}}
+
+\end{document}
 
 
 \end{document}
